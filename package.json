@@ -1,0 +1,19 @@
+{
+  "name": "jquery-word-export",
+  "version": "1.0.0",
+  "description": "jQuery-Word-Export\r ==================",
+  "main": "jquery.wordexport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Padimanskas/jQuery-Word-Export.git"
+  },
+  "author": "Stanislav Padimanskas <s.padimanskas@gmail.com> (http://padimanskas.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Padimanskas/jQuery-Word-Export/issues"
+  },
+  "homepage": "https://github.com/Padimanskas/jQuery-Word-Export#readme"
+}
